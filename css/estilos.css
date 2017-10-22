@@ -10,3 +10,20 @@
 
 
 
+{
+	padding: 0;
+	margin: 0;
+}
+
+
+
+
+body
+{
+	background: #013ADF;
+	color: #000000;
+	font-family: "rubikbold", Verdana, Helvetica;
+	font size: 2em;
+}
+
+
