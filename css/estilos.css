@@ -14,21 +14,25 @@
 	padding: 0;
 	margin: 0;
 }
+img
+{
+	width: 1365;
+	height: 140;
 
-
+}
 
 
 body
 {
-	background: #005883;
+	background: #EFF8FB;
 	color: #000000;
 	font-family: "rubikbold", Verdana, Helvetica;
 	font size: 2em;
 }
 
-header. nav
+header, nav
 {
-	
+	background:#EFFBF8;
 	border-radius: 0.5em;
 	margin: 0.5em auto;
 	max-width: 960px;
